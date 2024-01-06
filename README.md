@@ -18,7 +18,7 @@
 
 </div>
 
-![头像](image/img.jpg)
+![喜欢](img.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Ben1524/count.svg)
 
