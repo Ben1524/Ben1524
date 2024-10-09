@@ -40,7 +40,27 @@
 ![](https://img.shields.io/badge/梦想-给小美天天买早餐-blue)
 
 
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark1.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake1.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark1.svg" />
+  </picture>
+
 </div>
+
+### 🏢 Study Experience
+
+<img align="right" width="80" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/jd-xhh.jpg" />
+
+- [Dong Nan University](https://www.seu.edu.cn/) &emsp; 📌 2025-09-01 —— Now
+
+
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/dglg-xhh.jpg" />
+
+- [An Hui University of Technology ](https://www.ahu.edu.cn/) &emsp; 📌 2021-09-01 —— 2025-07-01
+
 
 ![喜欢](img.jpg)
 
