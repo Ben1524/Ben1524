@@ -1,5 +1,30 @@
 <div id="title" align=center>
 
+### Hello 👋, here is Phil ~
+<div align="center">
+
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.csdn.net/qq_61608322">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BeyondAlice!&center=true&size=27" />
+    </a>
+  </div>
+
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+<!-- 个人信息统计 -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ben1524&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben1524&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 ![Modern C++ template][github-sub-title:img]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben1524&show_icons=true&theme=radical)
