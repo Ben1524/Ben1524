@@ -28,7 +28,7 @@
 ![Modern C++ template][github-sub-title:img]
 
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++、Python、JavaScript-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 
 ![](https://img.shields.io/badge/讨厌-学习、熬夜、小美喜欢上新人-yellow) 
 
