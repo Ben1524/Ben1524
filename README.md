@@ -37,7 +37,7 @@
 
 ![](https://img.shields.io/badge/爱好-网络编程、音视频、异步编程-red)
 
-![](https://img.shields.io/badge/梦想-给小美天天买早餐、当牛马-blue)
+![](https://img.shields.io/badge/梦想-给小美天天买双人份早餐-blue)
 
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
