@@ -28,14 +28,14 @@
 ![Modern C++ template][github-sub-title:img]
 
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++、Python、JavaScript-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++、Go、Python、JavaScript-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 
 ![](https://img.shields.io/badge/讨厌-学习、熬夜、小美喜欢上新人-yellow) 
 
 
 ![](https://img.shields.io/badge/性格-开朗、自信、热血中二少年-red) 
 
-![](https://img.shields.io/badge/爱好-网络编程、音视频、异步编程-red)
+![](https://img.shields.io/badge/爱好-网络编程、音视频、后端开发-red)
 
 ![](https://img.shields.io/badge/梦想-给小美天天买双人份早餐-blue)
 
